@@ -6,7 +6,7 @@ var peeps = [
     loc: [56001200, 69816900]
   },
   {
-    name: 'Venus ‘Venturer',
+    name: 'Venus ’Venturer',
     email: 'venus@theadventurer.com',
     tel: '+15551234',
     loc: [1074770000, 108939000]
